@@ -7,8 +7,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "bar1": "1.1.0-beta.0",
-    "foo2": "1.1.0-beta.0",
+    "@oresoftware/bar1": "1.1.0-beta.0",
+    "@oresoftware/foo2": "1.1.0-beta.0",
     "lodash": "latest"
   }
 }
